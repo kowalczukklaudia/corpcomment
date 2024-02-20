@@ -1,3 +1,7 @@
 ## Setup
 
-Make sure to run 'npm install' to install all the necessary dependencies.
+Run 'npm install' to install all the necessary dependencies.
+
+# Run app
+
+Run 'npm run dev" to start the application
